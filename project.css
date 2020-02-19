@@ -15,6 +15,7 @@ a{
   color:#444444;
 }
 .login-reg-panel{
+
     position: relative;
     top: 50%;
     transform: translateY(-50%);
